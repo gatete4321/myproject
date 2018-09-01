@@ -1,0 +1,20 @@
+[
+  {
+    "name":"mbste",
+    "sport":"basketball",
+    "age":19,
+    "foods":{
+    	"like":["tunas","banana"],
+    	"dislike":["beer","bika"]
+    }
+  },
+  {
+    "name":"didox",
+    "sport":"volleyball",
+    "age":69,
+    "foods":{
+    	"like":["tunasona","banane mille"],
+    	"dislike":["beer","bika"]
+  }
+}
+]
